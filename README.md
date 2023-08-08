@@ -1,4 +1,5 @@
 <div align="center">
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=+This+is+MISO's+DEVLOG;+I'm+a+full+stack+Developer;Full+of+Enthusiasm+as+a+Developer;I+love+to+be+adventurous)](https://git.io/typing-svg)</div>
 
 <details> 
