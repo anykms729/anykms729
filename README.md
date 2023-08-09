@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=+This+is+MISO's+DEVLOG;+I'm+a+full+stack+Developer;Full+of+Enthusiasm+as+a+Developer;I+love+to+be+adventurous)](https://git.io/typing-svg)</div>
 
 <details> 
@@ -100,20 +100,22 @@
 </details>
 
 <details> 
+  
   <summary><h2 tabindex="-1" dir="auto"><a id="user-content--github-stats-and-activity" class="anchor" aria-hidden="true" href="#-github-stats-and-activity"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> Github Stats and Activity</h2></summary>
   <h3 tabindex="-1" dir="auto"><a id="user-content--streak-stats" class="anchor" aria-hidden="true" href="#-streak-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Streak Stats</h3>
-  
-  <p dir="auto">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="anykms729's streak" src="https://camo.githubusercontent.com/9066a0dd5570e83bb788c96b9b0908509dab1a7d5dd8263c6867c8068e83c304/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d44656e766572436f64657231267468656d653d6d6f6e6f6b61692d6d6574616c6c69616e26686964655f626f726465723d74727565" data-canonical-src="https://streak-stats.demolab.com/?user=DenverCoder1&amp;theme=monokai-metallian&amp;hide_border=true" style="max-width: 100%;">
-    </a>
-    </p><p dir="auto">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats" rel="nofollow">git.io/streak-stats</a></p>
-  <p dir="auto"></p>
+   <p dir="auto">
+    <a href="https://github.com/anykms729/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="anykms729's streak" src="https://github-readme-stats.vercel.app/api?username=anykms729&show_icons=true&theme=gotham" alt="github stats" width="45%" align" data-canonical-src="https://streak-stats.demolab.com/?user=anykms729&amp;theme=monokai-metallian&amp;hide_border=true" style="max-width: 100%;">
+    </a>    
+
+   <p dir="auto"></p>
   <h3 tabindex="-1" dir="auto"><a id="user-content--github-profile-stats" class="anchor" aria-hidden="true" href="#-github-profile-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻 GitHub Profile Stats</h3>
   
-<p dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://camo.githubusercontent.com/6c6261f4fe7c33264ecc485562dbbc0cf3d5c2101f23c45a18fdb209c50681bb/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d44656e766572436f646572312673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d314632323245267469746c655f636f6c6f723d4638354437462669636f6e5f636f6c6f723d463844383636" height="192px" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" style="max-width: 100%;"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://camo.githubusercontent.com/669414758865591ae9671b472a6db05a5b52a941a57304afe7fc81ba93e4f5e3/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d44656e766572436f64657231266c616e67735f636f756e743d38266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d314632323245267469746c655f636f6c6f723d4638354437462669636f6e5f636f6c6f723d46384438363626686964653d4a7570797465722532304e6f7465626f6f6b2c526f6666" height="192px" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;hide=Jupyter%20Notebook,Roff" style="max-width: 100%;"></a>
-<br></p>
+<p dir="auto">
+  <img alt="anykms729's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anykms729&show_icons=true&theme=gotham" alt="github stats" width="45%" align">
+  <img alt="anykms729's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anykms729&layout=compact&theme=gotham" height="173px">
+</p>
+
 <p dir="auto"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   
 <p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://camo.githubusercontent.com/8f7503ae74ef41385e1b90caa2c893e3b5aa809eac38e3366d84ee465313078c/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170682f3f757365726e616d653d44656e766572436f646572312662675f636f6c6f723d31463232324526636f6c6f723d463844383636266c696e653d46383544374626706f696e743d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;"></a></p>
