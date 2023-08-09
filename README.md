@@ -116,17 +116,12 @@
 
 <p dir="auto"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   
-<p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://camo.githubusercontent.com/8f7503ae74ef41385e1b90caa2c893e3b5aa809eac38e3366d84ee465313078c/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170682f3f757365726e616d653d44656e766572436f646572312662675f636f6c6f723d31463232324526636f6c6f723d463844383636266c696e653d46383544374626706f696e743d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;"></a></p>
-  <h3 tabindex="-1" dir="auto"><a id="user-content--recent-github-activity" class="anchor" aria-hidden="true" href="#-recent-github-activity"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Recent GitHub Activity</h3>
+<p dir="auto">
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anykms729&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
   
-  
-<ol dir="auto">
-<li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> Merged PR <a href="https://github.com/DenverCoder1/github-readme-youtube-cards/pull/124" data-hovercard-type="pull_request" data-hovercard-url="/DenverCoder1/github-readme-youtube-cards/pull/124/hovercard">#124</a> in <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></li>
-<li>🎉 Merged PR <a href="https://github.com/DenverCoder1/github-readme-youtube-cards/pull/125" data-hovercard-type="pull_request" data-hovercard-url="/DenverCoder1/github-readme-youtube-cards/pull/125/hovercard">#125</a> in <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></li>
-<li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> Merged PR <a href="https://github.com/DenverCoder1/custom-icon-badges/pull/896" data-hovercard-type="pull_request" data-hovercard-url="/DenverCoder1/custom-icon-badges/pull/896/hovercard">#896</a> in <a href="https://github.com/DenverCoder1/custom-icon-badges">DenverCoder1/custom-icon-badges</a></li>
-<li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> Merged PR <a href="https://github.com/DenverCoder1/custom-icon-badges/pull/895" data-hovercard-type="pull_request" data-hovercard-url="/DenverCoder1/custom-icon-badges/pull/895/hovercard">#895</a> in <a href="https://github.com/DenverCoder1/custom-icon-badges">DenverCoder1/custom-icon-badges</a></li>
-<li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> Merged PR <a href="https://github.com/DenverCoder1/custom-icon-badges/pull/894" data-hovercard-type="pull_request" data-hovercard-url="/DenverCoder1/custom-icon-badges/pull/894/hovercard">#894</a> in <a href="https://github.com/DenverCoder1/custom-icon-badges">DenverCoder1/custom-icon-badges</a></li>
-</ol>
 
 </details>
 
